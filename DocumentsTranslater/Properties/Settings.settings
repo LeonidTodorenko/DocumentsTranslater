@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DocumentsTranslater.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DocumentsTranslater_GlobalSight_AmbassadorService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://w21.globalsight.com/globalsight/services/AmbassadorWebService</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
